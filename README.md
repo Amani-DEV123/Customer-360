@@ -39,4 +39,4 @@ To provide a centralized customer view that enables users to quickly access cust
 
 The GIF below demonstrates the Customer 360° screen, including customer search by mobile number, customer information, interactive summary cards, dynamic record counts, and detailed reports for Orders, Services, Sales Opportunities, and Complaints.
 
-![Customer 360 Demo](custـdashboard.gif)
+![Customer 360 Demo](cust_dashboard.gif)
